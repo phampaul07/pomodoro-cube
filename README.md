@@ -341,7 +341,7 @@ Many of these required custom diagnostic firmware, multimeter testing, and exten
 
 # Lessons Learned
 
-This project taught me far more than simply building a timer.
+This project taught me far more than simply building a productivity timer.
 
 Some of the biggest skills I developed include:
 
@@ -370,6 +370,7 @@ Although the current prototype is fully functional, there are several improvemen
 - Configurable timer durations
 - Improved charging dock alignment
 - Historical productivity graphs
+- Rotating screen animation to make the interface fixed
 
 ---
 
