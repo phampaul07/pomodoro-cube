@@ -181,6 +181,17 @@ Tracks long-term study habits including:
 
 ---
 
+# Getting Started
+
+This runs on CircuitPython rather than compiled firmware, so there's no build/flash toolchain — the board mounts as a USB drive and files are copied directly onto it.
+
+1. Flash the [CircuitPython UF2](https://circuitpython.org/board/seeed_xiao_esp32c3/) for the Seeed Studio XIAO ESP32-C3 (hold BOOT while plugging in, drag the `.uf2` onto the `ESP32C3` drive).
+2. Once it reboots into CircuitPython, it'll appear as a `CIRCUITPY` drive. Copy the entire `firmware/` folder's contents onto it: `code.py`, `animation.py`, `dock.py`, the `.bmp` sprite assets, and the `lib/` folder of vendored Adafruit libraries.
+3. `code.py` is the entry point — CircuitPython auto-runs it on boot. `firmware/legacy/standalone_cube.py` is an earlier, dock-less iteration kept for reference only; it isn't used.
+4. The board reloads automatically any time `code.py` is saved. [Thonny](https://thonny.org/) (or any serial-capable editor) works well for live editing and viewing the serial console.
+
+---
+
 # Mechanical Design
 
 A major objective of this project was fitting an entire embedded system inside the volume of a standard Rubik's Cube.
