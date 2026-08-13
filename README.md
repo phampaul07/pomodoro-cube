@@ -14,6 +14,24 @@ CircuitPython • ESP32-C3 • Embedded Systems • CAD • 3D Printing • Anal
 
 ---
 
+# README Contents
+- [Overview](#overview)
+- [Demonstrations](#demonstrations)
+- [Features](#features)
+- [Hardware](#hardware)
+- [Getting Started](#getting-started)
+- [Mechanical Design](#mechanical-design)
+- [Engineering Deep Dive](#engineering-deep-dive)
+- [Software Highlights](#software-highlights)
+- [Challenges](#challenges)
+- [Lessons Learned](#lessons-learned)
+- [Future Improvements](#future-improvements)
+- [Gallery](#gallery)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
+---
+
 # Overview
 
 The Smart Pomodoro Cube is a handheld productivity device that combines embedded systems, hardware engineering, and industrial design into a compact form factor no larger than a standard Rubik's Cube.
@@ -411,6 +429,12 @@ Although the current prototype is fully functional, there are several improvemen
 This project was independently designed and built using CircuitPython on the Seeed Studio XIAO ESP32-C3.
 
 It combines concepts from embedded systems, analog electronics, firmware development, mechanical design, PCB design, and human-centered interaction into a single portable productivity device.
+
+---
+
+# Contact
+
+- **Paul Pham** — [phampp07@gmail.com](mailto:phampp07@gmail.com) • [linkedin.com/in/paul-pham07](https://www.linkedin.com/in/paul-pham07)
 
 ---
 
