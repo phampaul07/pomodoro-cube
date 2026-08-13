@@ -94,14 +94,13 @@ The Pomodoro Cube has two primary modes of operation.
 - Charging indicator
 - Clock Mode
 - 15-minute Quick Timer
-- Interactive Tamagatchi Pet
+- Interactive Tamagotchi Pet
 - Petting animation
 - Productivity Stats
 
 ---
 
 # Features
-
 
 ## Digital Clock
 
@@ -237,15 +236,10 @@ To overcome this hardware constraint, every dock interaction is transmitted thro
 The ESP32 reads this incoming voltage through its ADC and determines which button was pressed based on predefined threshold ranges.
 
 ```
-
 Button 1 → Home Clock
-
 Button 2 → Quick Timer
-
 Button 3 → Tomo
-
 Button 4 → Productivity Stats
-
 ```
 
 ---
@@ -414,7 +408,7 @@ Although the current prototype is fully functional, there are several improvemen
 |<img width="4032" height="3024" alt="IMG_2753" src="https://github.com/user-attachments/assets/7f6579c9-9c8a-4ac8-bc8b-8f16c355ab3e" /> | <img width="4032" height="3024" alt="IMG_2754" src="https://github.com/user-attachments/assets/7ebef5c4-1801-4718-a616-3413b40726a2" /> |
 
 
-| Tamagatchi | Stats |
+| Tamagotchi | Stats |
 |------|------|
 |<img width="3024" height="4032" alt="IMG_2757" src="https://github.com/user-attachments/assets/083e92cf-9342-4e21-a807-ed936aab5156" /> |<img width="3024" height="4032" alt="IMG_2756" src="https://github.com/user-attachments/assets/bf3a9c01-6fa3-46c4-bbdb-243c60f5bd75" /> |
 
