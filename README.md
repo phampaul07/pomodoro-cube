@@ -1,8 +1,6 @@
 # Smart Pomodoro Cube
 
-<p align="center">
-  <img src="images/hero.gif" width="500">
-</p>
+
 
 <h3 align="center">
 A fully custom embedded productivity cube featuring a Pomodoro timer, digital clock, virtual pet, productivity tracker, and magnetic charging dock.
@@ -10,6 +8,11 @@ A fully custom embedded productivity cube featuring a Pomodoro timer, digital cl
 
 <p align="center">
 CircuitPython • ESP32-C3 • Embedded Systems • CAD • 3D Printing • Analog Electronics • KiCad
+</p>
+
+
+<p align="center">
+  <img src="images/hero.gif" width="500">
 </p>
 
 ---
