@@ -1,4 +1,4 @@
-# Smart Pomodoro Cube
+<h1 align="center"> Smart Pomodoro Cube</h1>
 
 
 
